@@ -20,7 +20,7 @@
 
 ---
 
-**🧠 Architecture**
+## 🧠 Architecture
 The application follows a Clean Architecture approach and uses Cubit (Bloc State Management) to ensure scalability, maintainability, and clear separation of concerns:
 
 - **Models:** Represent weather data retrieved from the API
@@ -31,7 +31,7 @@ The application follows a Clean Architecture approach and uses Cubit (Bloc State
 
 ---
 
-**🔧 Technologies & Tools**
+## 🔧 Technologies & Tools
 - **Flutter**
 - **Dart**
 - **Cubit (Bloc State Management)**
@@ -42,7 +42,7 @@ The application follows a Clean Architecture approach and uses Cubit (Bloc State
 
 ---
 
-**🌐 API Integration**
+## 🌐 API Integration
 
 This app integrates a Free Weather API to fetch real-time weather data based on the searched city name.
 
@@ -66,17 +66,17 @@ lib/
 
 ---
 
-**🚀 Getting Started**
-- 1- Clone the repository
-- 2- Run flutter pub get
-- 3- Add your Weather API key
-- 4- Run the application 🚀
+## 🚀 Getting Started ##
+1- **Clone the repository**
+2- **Run flutter pub get**
+3- **Add your Weather API key**
+4- **Run the application 🚀**
 
 ---
 
-**👩‍💻 Author**
-Esraa Elshiekh
-Flutter Developer
+## 👩‍💻 Author
+**Esraa Elshiekh**
+**Flutter Developer**
 
 
 
