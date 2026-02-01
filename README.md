@@ -67,15 +67,19 @@ lib/
 ---
 
 ## 🚀 Getting Started ##
-1- **Clone the repository**
-2- **Run flutter pub get**
-3- **Add your Weather API key**
-4- **Run the application 🚀**
+1 - **Clone the repository**
+
+2 - **Run flutter pub get**
+
+3 - **Add your Weather API key**
+
+4 - **Run the application 🚀**
 
 ---
 
 ## 👩‍💻 Author
 **Esraa Elshiekh**
+
 **Flutter Developer**
 
 
